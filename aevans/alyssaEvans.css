@@ -1,0 +1,146 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+
+  background-color: #4e59a1;
+}
+
+header {
+  height: 230px;
+  background-color: #ff4b63;
+  padding: 0px;
+  border: 2px solid #fffff5;
+  margin:1%;
+}
+
+header h1 {
+  font-size: 180px;
+  font-weight: lighter;
+  font-family: "Century Gothic", Helvetica, sans-serif;
+  color: #fffff5;
+  padding-top: 0px;
+  margin-top: 0px;
+  height: 200px;
+  text-align: center;
+}
+
+nav {
+  margin: 1%;
+  padding: 0%;
+  background-color: none;
+}
+
+nav ul {
+  text-align: center;
+  font-size: 26px;
+  font-family: 'lucinda sans', Helvetica, sans-serif;
+  display: block;
+  padding: 1%;
+  list-style-type: none;
+}
+
+nav li {
+  border: none;
+  display: inline-flex;
+  margin: 0 50px 0;
+
+}
+
+nav a {
+  color: #fffff5;
+  text-align: center;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+.wolverine {
+  float: right;
+  padding: 1%;
+  margin-right: 1%;
+
+}
+
+.text {
+  text-align: left;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'lucinda sans', Helvetica, sans-serif;
+  color: #000000;
+  background: #fffff5;
+  padding: 1%;
+  margin: 1%;
+}
+
+#intro {
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
+.location {
+  display: inline-flex;
+}
+
+.job {
+  display: inline-flex;
+}
+
+.place {
+  padding-top: 0%;
+  margin: 5px;
+  text-align: center;
+}
+
+.text h2 {
+  text-align: center;
+}
+
+.gallery {
+  display: block;
+  position: relative;
+  background: none;
+  padding: 1%;
+  margin: 0 0 0;
+  float: right;
+}
+
+#comic {
+  position: relative;
+  display: block;
+  height: 300px;
+  width: 300px;
+}
+
+#trek {
+  position: relative;
+  height: 400px;
+}
+
+.more {
+  text-align: center;
+}
+
+.more img {
+  height: 350px;
+  padding-bottom: 40px;
+  display: inline-block;
+}
+
+.more p {
+  text-align: center;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.family img {
+  padding: auto;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  background-color: none;
+  margin-bottom: 20px;
+}

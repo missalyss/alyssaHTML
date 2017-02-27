@@ -1,0 +1,101 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+
+  background-color: #4e59a1;
+}
+
+header {
+  height: 230px;
+  background-color: #ff4b63;
+  padding: 0px;
+  border: 2px solid #fffff5;
+  margin:1%;
+}
+
+header h1 {
+  font-size: 180px;
+  font-weight: lighter;
+  font-family: "Century Gothic", Helvetica, sans-serif;
+  color: #fffff5;
+  padding-top: 0px;
+  margin-top: 0px;
+  height: 200px;
+  text-align: center;
+}
+
+nav {
+  margin: 1%;
+  padding: 0%;
+  background-color: none;
+}
+
+nav ul {
+  text-align: center;
+  font-size: 26px;
+  font-family: 'lucinda sans', Helvetica, sans-serif;
+  display: block;
+  padding: 1%;
+  list-style-type: none;
+}
+
+nav li {
+  border: none;
+  display: inline-flex;
+  margin: 0 50px 0;
+
+}
+
+nav a {
+  color: #fffff5;
+  text-align: center;
+  text-decoration: none;
+  font-weight: lighter;
+}
+
+.text {
+  text-align: left;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family: 'lucinda sans', Helvetica, sans-serif;
+  color: #000000;
+  background: #fffff5;
+  padding: 1%;
+  margin: 1%;
+}
+
+.text h2 {
+  text-align: center;
+}
+
+#coffee {
+  height: 300px;
+  float: right;
+  margin: 1%;
+  padding: 0%;
+  border: 2px solid black;
+}
+
+.environment img {
+  width: 100%;
+  border: 1px solid black;
+}
+
+.win {
+  text-align: center;
+}
+
+.win img {
+  height: 250px;
+  display: inline-block;
+}
+
+.footer {
+  text-align: center;
+  font-size: 12px;
+  background-color: none;
+  margin-bottom: 20px;
+}
